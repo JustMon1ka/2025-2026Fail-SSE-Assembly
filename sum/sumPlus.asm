@@ -36,7 +36,7 @@ InputData PROC
     LEA DX, crlf
     INT 21H
 
-    MOV AH, 0AH
+    MOV AH, 0AH 
     LEA DX, inputBuffer
     INT 21H
 

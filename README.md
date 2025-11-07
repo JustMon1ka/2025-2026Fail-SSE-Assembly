@@ -9,8 +9,8 @@
 对应Hello/
 #### 作业2：打印ASCII小写字母表
 对应ASCII/
-- 1.用loop指令实现 : asciiJp
-- 2.用条件跳转指令实现 : asciiLp
+- 1.用loop指令实现 : asciiLp
+- 2.用条件跳转指令实现 : asciiJp
 - 3.用c语言实现后反汇编并注释 : ascii-disassembly.asm
 #### 作业3：求和1~100
 对应Sum/
@@ -21,3 +21,5 @@
 对应nine/
 - 1.打印小99乘法表 : nine
 - 2.给出一个大99乘法表，找出其中的错 : findE
+
+
